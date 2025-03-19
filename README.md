@@ -3,6 +3,9 @@
 The repository contains the Pytorch code for different models. Most of the code is self-contained as a Jupyter Notebooks. 
 Besides, I also write several [Blogs](https://git-ai-zyy.github.io/BLOG/#category=Generative%20Model) about the generative models. If you are interested, to check out😁😁!
 
+>[!note]
+> This repository is mainly focus on understanding different generative models. So the dataset is simple, such as MNIST, CIFAR-10, and the training process is simple. If you are looking for some fancy training procedure. This might not be the one. Though the dataset is simple, with some proper modification, the training can be easily scale to large dataset.
+
 
 Jupter Notebooks:
 - Variational Autoencoder:
