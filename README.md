@@ -19,6 +19,9 @@ Jupter Notebooks:
 - Normalizing FLow
   - [Glow on CIFAR-10](https://github.com/Yyzhang2000/learning-generative-models/blob/main/nf/01_glow_cifar10.ipynb)
 
+- Diffusion Models
+  - [Diffusion Model on MNIST(Denoised Image Predict)](https://github.com/Yyzhang2000/learning-generative-models/blob/main/diffusion_model/01_diffusion_mnist.ipynb) 
+
 # Learning Recourses 
 This two courses focus on the theory of the generative models. 
 - [Stanford CS236: Deep Generative Models](https://git-ai-zyy.github.io/BLOG/courses/stanford-dgm.html)
