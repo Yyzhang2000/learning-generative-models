@@ -12,8 +12,12 @@ Jupter Notebooks:
   - [Variational Auteoncoder on MNIST](https://github.com/Yyzhang2000/learning-generative-models/blob/main/vae/01_vae_mnist.ipynb)
   - [Conditional Variational Autoencoder on MNIST](https://github.com/Yyzhang2000/learning-generative-models/blob/main/vae/02_conditional_vae_mnist.ipynb)
   - [VQ-VAE on CIFAR-10](https://github.com/Yyzhang2000/learning-generative-models/blob/main/vae/03_vqvae_cifar10.ipynb)
+
 - Generative Adversial Network:
   - [GAN on MNIST](https://github.com/Yyzhang2000/learning-generative-models/blob/main/gan/01_mnist_gan.ipynb)
+
+- Normalizing FLow
+  - [Glow on CIFAR-10](https://github.com/Yyzhang2000/learning-generative-models/blob/main/nf/01_glow_cifar10.ipynb)
 
 # Learning Recourses 
 This two courses focus on the theory of the generative models. 
